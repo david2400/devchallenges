@@ -1,10 +1,10 @@
 ## [idealidad]:~$ idealidad challenges
 
 - Name: David Jaramillo Lopez
-- GitHub
+- GitHub: https://github.com/david2400/devchallenges
 - Twitter:
 - Twitch:
-- Repositorio:
+- Repositorio: https://github.com/david2400?tab=repositories
 
 ## challenge:
   - [x] 404 Not fount
